@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a  target="_blank">Artyom</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Self-taught in IT and C#</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arbudin)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![codewars](https://www.codewars.com/users/arbudin/badges/large)](https://www.codewars.com/users/arbudin)   
+
 
 <!--
 **arbudin/arbudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
