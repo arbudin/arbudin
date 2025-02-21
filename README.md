@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Self-taught in IT and C#</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arbudin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arbudin)]
 
 [![codewars](https://www.codewars.com/users/arbudin/badges/large)](https://www.codewars.com/users/arbudin)   
 
